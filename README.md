@@ -28,7 +28,7 @@ Clone the repository:
 git clone https://github.com/SowmyaJayasivakumar/expense-tracker-python.git  
 
 Navigate to the project directory:  
-cd expense-tracker-app  
+cd expense-tracker-python  
 
 # Install dependencies:
 pip install -r requirements.txt  
