@@ -3,7 +3,7 @@
 The Expense Tracker App is a Python-based application designed to help users manage and track their daily expenses. It allows users to add, delete, and view expenses, providing a simple and efficient way to monitor personal finances.
 
 # Screenshot
-[Screenshot of expense tracker](https://github.com/SowmyaJayasivakumar/Expense-Tracker-Python/blob/main/Screenshot-ET.png?raw=true)
+![Screenshot of expense tracker](https://github.com/SowmyaJayasivakumar/Expense-Tracker-Python/blob/main/Screenshot-ET.png?raw=true)
 
 # Features
 Add Expenses: Input daily expenses with details such as date, amount, and category (e.g., food, travel, utilities).  
